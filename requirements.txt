@@ -34,4 +34,5 @@ sentencepiece
 faiss-cpu
 Pillow
 streamlit-extras
+streamlit-option-menu
 
