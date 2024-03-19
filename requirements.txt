@@ -33,4 +33,5 @@ Cython
 sentencepiece
 faiss-cpu
 Pillow
+streamlit_extras
 
